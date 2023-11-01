@@ -1,1 +1,0 @@
-hello# cmos_camera

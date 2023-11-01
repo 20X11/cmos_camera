@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\test.obj" 
-TO ".\Objects\CMOS" 
-PRINT(".\Listings\CMOS.m51") RAMSIZE(256) 
